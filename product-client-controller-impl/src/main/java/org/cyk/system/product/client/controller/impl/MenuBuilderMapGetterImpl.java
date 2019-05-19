@@ -8,7 +8,7 @@ import org.cyk.utility.client.controller.component.menu.AbstractMenuBuilderMapGe
 import org.cyk.utility.client.controller.component.menu.MenuBuilder;
 import org.cyk.utility.client.controller.component.menu.MenuItemBuilder;
 
-@org.cyk.system.product.server.annotation.Product
+@org.cyk.system.product.server.annotation.System
 public class MenuBuilderMapGetterImpl extends AbstractMenuBuilderMapGetterImpl implements Serializable {
 	private static final long serialVersionUID = 1L;
 
